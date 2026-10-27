@@ -38,11 +38,11 @@ font-weight: bold;
 color: #ddd;
 }
 
-.hero-section {
+.fashion-banner {
 width: 100%;
 }
 
-.hero-image {
+.fashion-banner img {
 width: 100%;
 height: 450px;
 object-fit: cover;
@@ -84,7 +84,7 @@ height: 220px;
 margin-bottom: 10px;
 }
 
-.img-wrapper img {
+.img-wrapper2 {
 width: 100%;
 height: 100%;
 object-fit: cover;
@@ -118,7 +118,7 @@ font-size: 20px;
 margin-bottom: 15px;
 }
 
-.banner-blue p {
+.banner-blue {
 font-size: 11px;
 color: #d8eaf2;
 line-height: 1.6;
